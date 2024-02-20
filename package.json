@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "sass": "^1.71.0"
+  },
+  "name": "repo-for-cloning",
+  "description": "This is my first repo in N215",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "compile": "sass scss/styles.scss css/styles.css -w",
+    "serve": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
